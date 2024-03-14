@@ -8,16 +8,16 @@ plugin://plugin.video.youtube/play/?video_id=6BX-NUzBSp8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="24.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Türkiye",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türkiye",A Haber
-plugin://plugin.video.youtube/play/?video_id=MWW-I4EJZ-8
-#EXTINF:-1 tvg-chno="7" tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Türkiye",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Türkiye",Show Türk
-plugin://plugin.video.youtube/play/?video_id=ouuCjEjyKVI
-#EXTINF:-1 tvg-chno="9" tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Türkiye",ATV
-plugin://plugin.video.youtube/play/?video_id=o35l3S6_2h8
-#EXTINF:-1 tvg-chno="10" tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiye",NTV
+#EXTINF:-1 tvg-chno="6" tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Türkiye",NTV
 plugin://plugin.video.youtube/play/?video_id=-RORLrBwJD0
+#EXTINF:-1 tvg-chno="7" tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Türkiye",A Haber
+plugin://plugin.video.youtube/play/?video_id=MWW-I4EJZ-8
+#EXTINF:-1 tvg-chno="8" tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Türkiye",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Türkiye",Show Türk
+plugin://plugin.video.youtube/play/?video_id=ouuCjEjyKVI
+#EXTINF:-1 tvg-chno="10" tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="Türkiye",ATV
+plugin://plugin.video.youtube/play/?video_id=o35l3S6_2h8
 #EXTINF:-1 tvg-chno="11" tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="Türkiye",TGRT Haber
 https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=67vvznyzlkev&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2
 #EXTINF:-1 tvg-chno="12" tvg-id="HaberTürk.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="Türkiye",Haber Türk
